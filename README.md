@@ -105,27 +105,27 @@ The project follows a strict **3-Tier Architecture**:
 ### Login & Registration
 | Login Screen | Registration (Step 1) | Registration (Step 2) |
 |---|---|---|
-| ![Login](screenshots/login.png) | ![Register 1](screenshots/Register1.png) | ![Register 2](screenshots/register2.png) |
+| ![Login](Images/login.png) | ![Register 1](Images/Register1.png) | ![Register 2](Images/register2.png) |
 
 ### Donor Portal
 | Donor Dashboard | AI Matching |
 |---|---|
-| ![Donor Dashboard](screenshots/donor%20dashboard.png) | ![AI Matching](screenshots/ai%20matching%20donor.png) |
+| ![Donor Dashboard](Images/donor%20dashboard.png) | ![AI Matching](Images/ai%20matching%20donor.png) |
 
 ### NGO Portal
 | NGO Dashboard | Schedule Pickup |
 |---|---|
-| ![NGO Dashboard](screenshots/ngo%20dashboard.png) | ![NGO Schedule](screenshots/ngo%20schedule.png) |
+| ![NGO Dashboard](Images/ngo%20dashboard.png) | ![NGO Schedule](Images/ngo%20schedule.png) |
 
 ### Volunteer Portal
 | Volunteer Dashboard |
 |---|
-| ![Volunteer Dashboard](screenshots/volunteer%20dashboard.png) |
+| ![Volunteer Dashboard](Images/volunteer%20dashboard.png) |
 
 ### Admin Portal
 | Admin Dashboard | Food Listings | Pickups | Analytics | Reports |
 |---|---|---|---|---|
-| ![Admin Dashboard](screenshots/admindashboard.png) | ![Food Listings](screenshots/Foodlistings%20admin.png) | ![Pickups](screenshots/admin%20pickups.png) | ![Analytics](screenshots/admin%20analytics.png) | ![Reports](screenshots/admin%20report.png) |
+| ![Admin Dashboard](Images/admindashboard.png) | ![Food Listings](Images/Foodlistings%20admin.png) | ![Pickups](Images/admin%20pickups.png) | ![Analytics](Images/admin%20analytics.png) | ![Reports](Images/admin%20report.png) |
 
 ---
 
@@ -239,7 +239,7 @@ feedforward/
 │       │       └── UIComponents.java
 │       └── resources/
 │           └── logo.png
-├── screenshots/                          # UI screenshots
+├── Images/                               # UI screenshots
 ├── pom.xml                               # Maven build config
 └── README.md
 ```
